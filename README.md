@@ -1,2 +1,2 @@
 # Machine Learning with Python IBM
- IBM cognitive Classes - Machien learning
+ IBM cognitive Classes - Machine learning

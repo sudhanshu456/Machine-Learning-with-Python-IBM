@@ -4,14 +4,14 @@ IBM cognitive Classes - Machine learning
 
 ## Week 2
 
-###Data set
+### Data set
 
 -[Fuel Consumption](/Week%202/Data_set/FuelConsumption.csv)
 
 -[China GDP](/Week%202/Data_set/china_gdp.csv)
 
 
-###Jupyter Notebooks
+### Jupyter Notebooks
 
 -[Simlpe Linear Regression](/Week%202/ML0101EN-Reg-Simple-Linear-Regression-Co2-py-v1.ipynb)
 

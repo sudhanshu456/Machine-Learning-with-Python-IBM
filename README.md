@@ -21,3 +21,4 @@ IBM cognitive Classes - Machine learning
 
 -[Non-Linear Regression](/Week%202/ML0101EN-Reg-NoneLinearRegression-py-v1.ipynb)
 
+Quiz and final project are also included
